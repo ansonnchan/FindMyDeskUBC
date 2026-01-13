@@ -97,3 +97,9 @@ project-sequoia/
 - **Testing**: JUnit5
 - **Development**: VSCode, IntelliJ IDEA
 
+---
+
+License and Copyright
+This project is developed as part of the CPEN 221 course at the University of British Columbia. All code and materials are the intellectual property of UBC, the course instructors, and the listed authors unless otherwise stated.
+
+You may view, study, and modify the code for educational purposes within the course context only. Redistribution or commercial use is not permitted without explicit permission.
