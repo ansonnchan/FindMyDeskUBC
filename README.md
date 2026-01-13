@@ -25,26 +25,22 @@ FindMyDesk UBC is a full-stack web application developed as the CPEN 221 final p
 1. **Clone the repository**
 ```bash
    git clone https://github.com/ansonnchan/FindMyDeskUBC.git
-   cd project-sequoia
 ```
+   `cd` into the folder you just cloned the repo in.
+   `cd FindMyDeskUBC`
 
-2. **Switch to the RELEASE branch**
-```bash
-   git checkout RELEASE
-```
-
-3. **Install VSCode Extensions**
+2. **Install VSCode Extensions**
    - Open VSCode
    - Install the **Live Server Extension** from the Extensions panel (left sidebar)
 
-4. **Start the Backend Server**
+3. **Start the Backend Server**
 ```bash
    cd BACKEND
    ./gradlew.bat bootRun
 ```
    *Note: The progress bar may stop at 80% – this is normal and indicates the server is running.*
 
-5. **Launch the Frontend**
+4. **Launch the Frontend**
    - Navigate to `frontend/htmlCode/index.html` in VSCode
    - Right-click anywhere in the file
    - Select **Open with Live Server**
